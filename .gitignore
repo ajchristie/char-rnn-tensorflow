@@ -95,4 +95,4 @@ data.npy
 vocab.pkl
 
 # stuff I've added and would rather not be seen right now
-GCloudVersion/
+GCloudVersion/data
